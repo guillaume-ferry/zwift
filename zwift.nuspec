@@ -3,28 +3,19 @@
   <metadata>
     <id>zwift</id>
     <version>1.0.51</version>
-    <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
-    <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
+    <packageSourceUrl>https://github.com/guillaume-ferry/zwift</packageSourceUrl>
     <owners>gfe</owners>
-    
+  
     <title>zwift (Install)</title>
     <authors>Zwift</authors>
     <projectUrl>https://www.zwift.com</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/zwift.png</iconUrl>-->
     <copyright>https://zwift.com/p/terms</copyright>
     <licenseUrl>https://support.zwift.com/en_us/end-user-license-agreement-rymuiTZr</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
-    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://support.zwift.com/lang/fr/</docsUrl>
     <tags>zwift cycling running gozwift</tags>
     <summary>Zwift transforms indoor cycling and running workouts into fun, social, and dynamic adventures.</summary>
-    <description>Zwift blends the fun of video games with the intensity of serious training,
-
-helping you get faster. Level up in the virtual worlds of Zwift with a community
-
-that motivates you every minute. Choose from training plans, group rides,
-
-races, and more. You’ll get fitter and stronger. Discover the world of Zwift today.  </description>
+    <description>Zwift blends the fun of video games with the intensity of serious training, helping you get faster. Level up in the virtual worlds of Zwift with a community that motivates you every minute. Choose from training plans, group rides, races, and more. You’ll get fitter and stronger. Discover the world of Zwift today.  </description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
