@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>zwift</id>
-    <version>1.0.51</version>
+    <version>1.0.52</version>
     <packageSourceUrl>https://github.com/guillaume-ferry/zwift</packageSourceUrl>
     <owners>gfe</owners>
   

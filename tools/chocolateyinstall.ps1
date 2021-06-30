@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'zwift*'
-  checksum      = '628EBC628672DC1618E9DAC72B18E7E6ABD90DB6CA186E4CAF4080C08C77F8EA'
+  checksum      = '0FA151B1ADF8813E93EFFD8154CBF3E8437D4E7D78E8AAE29DFAAF451B2D2028'
   checksumType  = 'sha256'
 
   silentArgs   = '/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL'
