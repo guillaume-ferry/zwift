@@ -2,9 +2,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>zwift</id>
-    <version>1.1.1</version>
+    <version>1.1.4</version>
     <packageSourceUrl>https://github.com/guillaume-ferry/zwift</packageSourceUrl>
-    <owners>gfe</owners>
+    <owners>gfe, overage</owners>
   
     <title>zwift (Install)</title>
     <authors>Zwift</authors>
@@ -16,6 +16,10 @@
     <tags>zwift cycling running gozwift</tags>
     <summary>Zwift transforms indoor cycling and running workouts into fun, social, and dynamic adventures.</summary>
     <description>Zwift blends the fun of video games with the intensity of serious training, helping you get faster. Level up in the virtual worlds of Zwift with a community that motivates you every minute. Choose from training plans, group rides, races, and more. You’ll get fitter and stronger. Discover the world of Zwift today.  </description>
+    <dependencies>
+      <dependency id="dotnet3.5" version="3.5.20160716" />
+      <dependency id="netfx-4.7.2" version="4.7.2.0" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
